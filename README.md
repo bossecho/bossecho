@@ -5,9 +5,28 @@
 
 
 <p align="center">
-  <strong>BSIT Graduate</strong> • Aspiring Web Developer • Based in the Philippines<br>
-  Currently mastering <strong>Laravel</strong> • Building real-world projects • Open to entry-level opportunities<br>
+  <strong>🎓 BSIT Graduate</strong> • 💻 Aspiring Web Developer • 🇵🇭 Philippines<br>
+  Building practical web applications • Continuously learning modern web technologies • Open to entry-level opportunities<br><br>
   <img src="https://komarev.com/ghpvc/?username=bossecho&label=Profile%20Views&color=0D7C66&style=flat-square"/>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/bossecho">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/jerichomaghilom/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://bossecho.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-0D7C66?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+
+  <a href="https://github.com/bossecho?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-4CAF50?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
 ---
