@@ -3,15 +3,19 @@
 </p>
 
 <p align="center">
-  🎓 BSIT Graduate • 💻 Aspiring Web Developer • 🇵🇭 Philippines
+  🎓 Bachelor of Science in Information Technology Graduate<br>
+  💻 Web Developer in Progress • Laravel Enthusiast<br>
+  🇵🇭 Based in the Philippines
 </p>
 
 <p align="center">
-  🌱 Learning Laravel • ⚡ Building Projects • 🚀 Open to Opportunities
+  🔨 Currently Building Real-World Applications<br>
+  📚 Continuously Advancing My Full-Stack Skills<br>
+  🤝 Open to Junior Developer Roles & Collaborative Projects
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bossecho&label=Profile%20Views&color=38B2AC&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=bossecho&label=Profile%20Views&color=0D7C66&style=flat-square"/>
 </p>
 
 ---
