@@ -1,6 +1,6 @@
 
- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=900&color=38B2AC&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Jericho+Maghilom+👋;Aspiring+Web+Developer;Building+Practical+Web+Applications;Turning+Ideas+Into+Real+Solutions;Passionate+About+Clean+Code;Always+Learning+and+Growing" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=900&color=38B2AC&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Jericho+Maghilom+👋;BSIT+Graduate;Aspiring+Web+Developer;Building+Practical+Web+Applications;Always+Learning%2C+Always+Improving" alt="Typing SVG" />
 </p>
 
 
