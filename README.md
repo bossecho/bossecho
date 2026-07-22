@@ -3,18 +3,8 @@
 </p>
 
 <p align="center">
-  🎓 Bachelor of Science in Information Technology Graduate<br>
-  💻 Web Developer in Progress • Laravel Enthusiast<br>
-  🇵🇭 Based in the Philippines
-</p>
-
-<p align="center">
-  🔨 Currently Building Real-World Applications<br>
-  📚 Continuously Advancing My Full-Stack Skills<br>
-  🤝 Open to Junior Developer Roles & Collaborative Projects
-</p>
-
-<p align="center">
+  <strong>BSIT Graduate</strong> • Aspiring Web Developer • Based in the Philippines<br>
+  Currently mastering <strong>Laravel</strong> • Building real-world projects • Open to entry-level opportunities<br>
   <img src="https://komarev.com/ghpvc/?username=bossecho&label=Profile%20Views&color=0D7C66&style=flat-square"/>
 </p>
 
