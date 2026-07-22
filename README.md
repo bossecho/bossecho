@@ -26,4 +26,8 @@
   </a>
 </p>
 
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,mysql,tailwind,git,github,vscode,cpp&perline=12" />
+</p>
 ---
